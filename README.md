@@ -1,6 +1,4 @@
-# CLEAN ARCHITECTURE
-
-Olá devs!
+# DESAFIO: Clean Architecture
 
 Agora é a hora de botar a mão na massa. Pra este desafio, você precisará criar o usecase de listagem das orders.
 
